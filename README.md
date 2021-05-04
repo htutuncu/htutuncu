@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/feed/
+[linkedin]: https://www.linkedin.com/in/hkmttnc/
