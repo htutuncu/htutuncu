@@ -10,11 +10,8 @@
 <br>
 <br>
 
-<details>
-<summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htutuncu&layout=compact" >
-</details>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htutuncu&langs_count=8)](https://github.com/htutuncu/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/hkmttnc/
