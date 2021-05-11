@@ -5,7 +5,8 @@ Welcome!
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hkmttnc/"><img src="https://img.shields.io/badge/LINKEDIN-D14836?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"></a>
+<a href="https://www.linkedin.com/in/hkmttnc/"><img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg"></a>
+<a href="https://www.twitter.com/hkmttnc/"><img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg"></a>
 </p>
 
 ***
@@ -20,3 +21,4 @@ Welcome!
 
 
 [linkedin]: https://www.linkedin.com/in/hkmttnc/
+[twitter]: https://twitter.com/hkmttnc
