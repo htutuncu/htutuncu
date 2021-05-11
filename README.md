@@ -8,10 +8,7 @@ Welcome!
 <a href="https://www.linkedin.com/in/hkmttnc/"><img src="https://img.shields.io/badge/LINKEDIN-D14836?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"></a>
 </p>
 
-
-
-<br>
-<br>
+***
 
 
 <p align="center">
