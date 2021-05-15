@@ -7,6 +7,7 @@ Welcome!
 <p align="center">
 <a href="https://www.linkedin.com/in/hkmttnc/"><img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg"></a>
 <a href="https://www.twitter.com/hkmttnc/"><img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg"></a>
+<a href="mailto:hikmettutuncu@outlook.com"><img  width="22" src="https://unpkg.com/simple-icons@v4/icons/microsoftoutlook.svg"></a>
 </p>
 
 ***
