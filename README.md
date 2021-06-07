@@ -12,6 +12,10 @@ Welcome!
 
 </p>
 
+## I'm currently working on:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htutuncu&repo=HRMS-Project)](https://github.com/htutuncu/HRMS-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htutuncu&repo=HRMS-React-Front-End)](https://github.com/htutuncu/HRMS-React-Front-End)
+
 ***
 
 <p align="center">
